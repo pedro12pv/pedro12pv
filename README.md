@@ -1,44 +1,25 @@
-<div align="center">
+<p align="right"><b>EN</b> · <a href="README.es.md">ES</a></p>
 
-# Hey, I'm Pedro 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-en-dark.svg">
+  <img alt="Pedro Puerta Vázquez, Full Stack Java Developer. Dot-matrix portrait." src="assets/header-en-light.svg" width="100%">
+</picture>
 
-**Fullstack Developer · Microservices · Java & Spring Boot**
+Full stack developer at NTT DATA. I build microservices with Java and Spring Boot, data processes with Apache Airflow and Python, and the interfaces that use them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedropuertavazquez)
+> Right now: experimenting with AI and LLMs in development, from SDD to vibe coding.
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/log-en-dark.svg">
+  <img alt="Timeline of roles, one dot per month: Internship, 3 months; Junior Developer, 19 months; Centers Developer, 10 months." src="assets/log-en-light.svg" width="100%">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-en-dark.svg">
+  <img alt="Matrix of 39 technologies by 3 roles." src="assets/stack-en-light.svg" width="100%">
+</picture>
 
-Fullstack Developer at **NTT DATA**, working with microservices and APIs in enterprise environments. Based in Alicante, Spain.
+## Contact
 
-Lately I've been diving into **AI & LLMs** — figuring out how to actually make them useful in day-to-day development, from SDD to vibe coding 😶‍🌫️
-
-### 🛠 Stack
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-### 📍 Right now
-
-- 🏗️ Microservices & REST APIs in enterprise environments
-- 🤖 Experimenting with AI/LLMs for development — SDD & vibe coding 😶‍🌫️
-- 📐 Clean architecture & design patterns
-
----
-
-<div align="center">
-
-*Always up for a good tech conversation — feel free to reach out!* ☕
-
-</div>
+- `$` open [linkedin.com/in/pedropuertavazquez](https://www.linkedin.com/in/pedropuertavazquez)
+- `$` open [github.com/pedro12pv](https://github.com/pedro12pv)

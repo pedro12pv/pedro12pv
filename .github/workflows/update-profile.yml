@@ -1,0 +1,24 @@
+# Regenerates the README SVGs on the 1st of each month so the live dot moves to the new month.
+# Source of truth: the site repo (npm run profile); copy generator/ here when cv.ts changes.
+name: Update profile
+on:
+  schedule:
+    - cron: '17 3 1 * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: OUT_DIR=. node generator/scripts/github-profile.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update profile for $(date +%Y-%m)" && git push
