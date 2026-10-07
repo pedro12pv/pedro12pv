@@ -5,10 +5,6 @@
   <img alt="Pedro Puerta Vázquez, Full Stack Java Developer. Retrato en matriz de puntos." src="assets/header-es-light.svg" width="100%">
 </picture>
 
-Desarrollador full stack en NTT DATA. Construyo microservicios con Java y Spring Boot, procesos de datos con Apache Airflow y Python, y las interfaces que los usan.
-
-> Ahora: experimentando con IA y LLMs en el desarrollo, desde SDD hasta vibe coding.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/log-es-dark.svg">
   <img alt="Línea temporal de puestos, un punto por mes: Prácticas formativas, 3 meses; Junior Developer, 19 meses; Centers Developer, 10 meses." src="assets/log-es-light.svg" width="100%">

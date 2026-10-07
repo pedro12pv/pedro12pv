@@ -35,7 +35,6 @@ const T = {
     used: 'usada en el puesto',
     notUsed: 'no usada en ese puesto',
     months: 'meses',
-    now: 'Ahora: experimentando con IA y LLMs en el desarrollo, desde SDD hasta vibe coding.',
     contact: 'Contacto',
     other: 'EN',
     otherFile: 'README.md',
@@ -55,7 +54,6 @@ const T = {
     used: 'used in the role',
     notUsed: 'not used in that role',
     months: 'months',
-    now: 'Right now: experimenting with AI and LLMs in development, from SDD to vibe coding.',
     contact: 'Contact',
     other: 'ES',
     otherFile: 'README.es.md',
@@ -288,10 +286,6 @@ for (const lang of ['es', 'en']) {
   const md = `<p align="right"><b>${lang.toUpperCase()}</b> · <a href="${t.otherFile}">${t.other}</a></p>
 
 ${picture('header', lang, t.headerAlt)}
-
-${profile.summary[lang]}
-
-> ${t.now}
 
 ${picture('log', lang, logAlts[lang])}
 
