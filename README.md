@@ -5,6 +5,10 @@
   <img alt="Pedro Puerta Vázquez, Full Stack Java Developer. Dot-matrix portrait." src="assets/header-en-light.svg" width="100%">
 </picture>
 
+Full stack developer at NTT DATA. I build microservices with Java and Spring Boot, data processes with Apache Airflow and Python, and the interfaces that use them.
+
+> Right now: experimenting with AI and LLMs in development, from SDD to vibe coding.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/log-en-dark.svg">
   <img alt="Timeline of roles, one dot per month: Internship, 3 months; Junior Developer, 19 months; Centers Developer, 10 months." src="assets/log-en-light.svg" width="100%">
