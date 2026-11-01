@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/log-en-dark.svg">
-  <img alt="Timeline of roles, one dot per month: Internship, 3 months; Junior Developer, 19 months; Centers Developer, 10 months." src="assets/log-en-light.svg" width="100%">
+  <img alt="Timeline of roles, one dot per month: Internship, 3 months; Junior Developer, 19 months; Centers Developer, 11 months." src="assets/log-en-light.svg" width="100%">
 </picture>
 
 <picture>

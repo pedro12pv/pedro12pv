@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/log-es-dark.svg">
-  <img alt="Línea temporal de puestos, un punto por mes: Prácticas formativas, 3 meses; Junior Developer, 19 meses; Centers Developer, 10 meses." src="assets/log-es-light.svg" width="100%">
+  <img alt="Línea temporal de puestos, un punto por mes: Prácticas formativas, 3 meses; Junior Developer, 19 meses; Centers Developer, 11 meses." src="assets/log-es-light.svg" width="100%">
 </picture>
 
 <picture>
